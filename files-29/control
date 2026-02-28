@@ -1,0 +1,11 @@
+Package: com.chromahomebarxplus
+Name: ChromaHomeBarX Plus
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Razer Chroma inspired HomeBar tweak — enhanced with 15 animation modes, glow effects, particles, smart features, and more! Compatible with iPhone X and newer.
+Maintainer: ChromaPlus
+Author: ChromaPlus (based on ChromaHomeBarX by Afnan Ahmad)
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Homepage: https://github.com/chromahomebarxplus
+Icon: file:///Library/PreferenceBundles/ChromaHomeBarXPlusPrefs.bundle/icon.png
